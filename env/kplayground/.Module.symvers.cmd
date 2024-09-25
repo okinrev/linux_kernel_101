@@ -1,0 +1,1 @@
+savedcmd_/home/okinrev/env/kplayground/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/okinrev/env/kplayground/Module.symvers -T /home/okinrev/env/kplayground/modules.order -i Module.symvers -e 

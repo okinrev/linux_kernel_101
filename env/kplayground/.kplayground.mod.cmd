@@ -1,0 +1,1 @@
+savedcmd_/home/okinrev/env/kplayground/kplayground.mod := printf '%s\n'   kplayground.o | awk '!x[$$0]++ { print("/home/okinrev/env/kplayground/"$$0) }' > /home/okinrev/env/kplayground/kplayground.mod
